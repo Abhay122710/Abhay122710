@@ -10,7 +10,7 @@
 
 I am a **Computer Science & Engineering student specializing in Graphics & Gaming at UPES, Dehradun**, interested in building software, AI-powered applications, and interactive experiences.
 
-* 🚀 **Software Development Intern** at Tribal Fusion R&D LLP — contributed to application development, debugging, and technical workflows.
+* 🚀 **Software Development Intern** at Tribal Fusion R&D LLP — contributed to application development, debugging, and improving technical workflows.
 * 🧠 **AI & Software Projects** — built Mnemosyne, an AI-powered RAG-based bug-memory system using local AI and knowledge retrieval.
 * 🛒 **Full-Stack Development** — built Vendor+, a hyperlocal commerce platform with ML-based demand forecasting and analytics.
 * 🎮 **Game Development** — developed a Geometry Dash-style 2D platformer using Unity and C#.
@@ -22,7 +22,6 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 <p align="left">
 
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,17 +31,15 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 <p align="left">
 
-  <!-- Web / Backend -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
 
 </p>
 
 <p align="left">
 
-  <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -51,7 +48,6 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 <p align="left">
 
-  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Knowledge_Graphs-5C2D91?style=for-the-badge" alt="Knowledge Graphs" />
@@ -60,7 +56,6 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 <p align="left">
 
-  <!-- Game / Design -->
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -69,7 +64,6 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 <p align="left">
 
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -81,13 +75,11 @@ I am a **Computer Science & Engineering student specializing in Graphics & Gamin
 
 ### 🚀 Featured Projects
 
-* 🧠 **[Mnemosyne](https://github.com/Abhay122710/mnemosyne)** — AI-powered RAG bug-memory system using Git Hooks, ChromaDB, Cognee, Knowledge Graphs, and local Ollama-based LLMs.
+* 🧠 **[Mnemosyne](https://mnemosyne-eosin.vercel.app/)** — AI-powered RAG bug-memory system using Git Hooks, ChromaDB, Cognee, Knowledge Graphs, and local Ollama-based LLMs.
 
-* 🛒 **[Vendor+](https://github.com/Abhay122710/vendorplus)** — Hyperlocal commerce platform with product listings, ML-based demand forecasting, analytics dashboards, Supabase integration, and Twilio-based communication.
+* 🛒 **[Vendor+](https://vendorplus.online/)** — Hyperlocal commerce platform with product listings, ML-based demand forecasting, analytics dashboards, Supabase integration, and Twilio-based communication.
 
-* 🎮 **Geometry Dash-Style 2D Platformer** — Unity-based rhythm platformer featuring multiple player modes, physics-based movement, gravity switching, collision detection, and raycasting.
-
-* 💼 **Portfolio** — Personal portfolio showcasing my projects, technical work, design interests, and development journey.
+* 🎮 **[Geometry Dash-Style 2D Platformer](https://abhay122710.itch.io/geometry-dash-game)** — Unity-based rhythm platformer featuring multiple player modes, physics-based movement, gravity switching, collision detection, and raycasting.
 
 ---
 
@@ -108,6 +100,14 @@ Worked on digital marketing campaigns, content creation, social media management
 **B.Tech — Computer Science & Engineering (Graphics & Gaming)**  
 UPES, Dehradun  
 CGPA: **7.67 / 10**
+
+---
+
+### 🏆 Leadership & Activities
+
+* 🎨 **Design Head — IEEE**
+* ⚙️ **Core Member — SAE**
+* 📚 **PwC Advisory Launchpad Learning Program**
 
 ---
 
