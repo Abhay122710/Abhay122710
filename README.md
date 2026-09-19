@@ -101,24 +101,7 @@ Worked on digital marketing campaigns, content creation, social media management
 UPES, Dehradun  
 CGPA: **7.67 / 10**
 
----
 
-### 🏆 Leadership & Activities
-
-* 🎨 **Design Head — IEEE**
-* ⚙️ **Core Member — SAE**
-* 📚 **PwC Advisory Launchpad Learning Program**
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay122710&show_icons=true&theme=nord&count_private=true&border_radius=8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay122710&layout=compact&theme=nord&border_radius=8" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
