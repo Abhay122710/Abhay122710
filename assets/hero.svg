@@ -61,16 +61,17 @@
       </clipPath>
     </defs>
 
-    <image
-      x="675"
-      y="55"
-      width="160"
-      height="170"
-      href="../id.png"
-      xlink:href="../id.png"
-      preserveAspectRatio="xMidYMid meet"
-      clip-path="url(#portraitClip)"
-    />
+ 
+<image
+  x="675"
+  y="55"
+  width="160"
+  height="170"
+  href="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/id.png"
+  preserveAspectRatio="xMidYMid meet"
+  clip-path="url(#portraitClip)"
+/>
+
 
     <rect x="675" y="55" width="160" height="170" rx="12"
           fill="none" stroke="#247bff" stroke-width="1.5"/>
