@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Abhay Chaudhary
 
 ### Aspiring Software Developer | CSE Student — Graphics & Gaming
@@ -8,33 +7,34 @@
 
 I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjoy exploring creative technology and building projects that combine design and development.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/id.png" alt="Portrait of Abhay Chaudhary" width="220" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-![Introduction](./assets/hero.svg?v=3)
-
-<p align="center">
-  <img src="./assets/id.png" alt="Portrait" width="190" />
-</p>
-
-![About and Interests](./assets/about-life.svg?v=1)
+- 🎮 Interested in game development and interactive experiences
+- 🎨 Interested in UI/UX design and 3D graphics
+- 💻 Building projects that combine creative design and software development
 
 ---
 
 ## 🛠️ Skills & Technology
 
-![Technology Stack](./assets/stack.svg?v=1)
+![Technology Stack](./assets/stack.svg)
 
 ---
 
 ## 🪪 Developer ID
 
-![Developer ID Card](./assets/id-dashboard.svg?v=3)
-
 <p align="center">
-  <img src="./assets/id.png" alt="Developer portrait" width="150" />
+  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/id.png" alt="Developer portrait" width="170" />
 </p>
+
+**Abhay Chaudhary** · Aspiring Software Developer  
+B.Tech CSE · Graphics & Gaming · UPES Dehradun
 
 ---
 
@@ -50,16 +50,12 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ## 🤝 Connect With Me
 
-![Connect](./assets/connect.svg?v=3)
-
 <p align="center">
-  <img src="./assets/right_pointing.png" alt="Pointing character" width="240" />
+  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/right_pointing.png" alt="Pointing character" width="260" />
 </p>
 
 - **GitHub:** [abhay122710](https://github.com/abhay122710)
 
 ---
 
-<p align="center">
-  <i>Building, learning, and creating through code.</i>
-</p>
+<p align="center"><i>Building, learning, and creating through code.</i></p>
