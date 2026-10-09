@@ -55,24 +55,9 @@
 
     <rect x="650" y="30" width="210" height="220" rx="16" class="panel"/>
 
-    <defs>
-      <clipPath id="portraitClip">
-        <rect x="675" y="55" width="160" height="170" rx="12"/>
-      </clipPath>
-    </defs>
-
-       
-<image
-  x="675"
-  y="55"
-  width="160"
-  height="170"
-  href="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/id.png"
-  preserveAspectRatio="xMidYMid meet"
-  clip-path="url(#portraitClip)"
-/>
-
-    <rect x="675" y="55" width="160" height="170" rx="12"
-          fill="none" stroke="#247bff" stroke-width="1.5"/>
+    <rect x="675" y="55" width="160" height="170" rx="12" fill="#111d31" stroke="#247bff" stroke-width="1.5"/>
+    <circle cx="755" cy="112" r="35" fill="#247bff" opacity=".18"/>
+    <text x="755" y="124" text-anchor="middle" class="display white" font-size="34">AC</text>
+    <text x="755" y="174" text-anchor="middle" class="mono muted" font-size="10">PORTRAIT BELOW</text>
   </g>
 </svg>
