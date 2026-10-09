@@ -7,17 +7,17 @@
 
 I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjoy exploring creative technology and building projects that combine design and development.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/id.png" alt="Portrait of Abhay Chaudhary" width="220" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 🎮 Interested in game development and interactive experiences
-- 🎨 Interested in UI/UX design and 3D graphics
-- 💻 Building projects that combine creative design and software development
+![Introduction](./assets/hero.svg)
+
+<p align="center">
+  <img src="./assets/id.png" alt="Portrait of Abhay Chaudhary" width="180" />
+</p>
+
+![About and Interests](./assets/about-life.svg)
 
 ---
 
@@ -29,12 +29,11 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ## 🪪 Developer ID
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/id.png" alt="Developer portrait" width="170" />
-</p>
+![Developer ID Card](./assets/id-dashboard.svg)
 
-**Abhay Chaudhary** · Aspiring Software Developer  
-B.Tech CSE · Graphics & Gaming · UPES Dehradun
+<p align="center">
+  <img src="./assets/id.png" alt="Developer portrait" width="150" />
+</p>
 
 ---
 
@@ -50,12 +49,16 @@ B.Tech CSE · Graphics & Gaming · UPES Dehradun
 
 ## 🤝 Connect With Me
 
+![Connect](./assets/connect.svg)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay122710/Abhay122710/main/assets/right_pointing.png" alt="Pointing character" width="260" />
+  <img src="./assets/right_pointing.png" alt="Pointing character" width="240" />
 </p>
 
 - **GitHub:** [abhay122710](https://github.com/abhay122710)
 
 ---
 
-<p align="center"><i>Building, learning, and creating through code.</i></p>
+<p align="center">
+  <i>Building, learning, and creating through code.</i>
+</p>
