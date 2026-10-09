@@ -12,7 +12,11 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ## 🚀 About Me
 
-![Introduction](./assets/hero.svg?v=2)
+![Introduction](./assets/hero.svg?v=3)
+
+<p align="center">
+  <img src="./assets/id.png" alt="Portrait" width="190" />
+</p>
 
 ![About and Interests](./assets/about-life.svg?v=1)
 
@@ -26,7 +30,11 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ## 🪪 Developer ID
 
-![Developer ID Card](./assets/id-dashboard.svg?v=2)
+![Developer ID Card](./assets/id-dashboard.svg?v=3)
+
+<p align="center">
+  <img src="./assets/id.png" alt="Developer portrait" width="150" />
+</p>
 
 ---
 
@@ -42,7 +50,11 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ## 🤝 Connect With Me
 
-![Connect](./assets/connect.svg?v=2)
+![Connect](./assets/connect.svg?v=3)
+
+<p align="center">
+  <img src="./assets/right_pointing.png" alt="Pointing character" width="240" />
+</p>
 
 - **GitHub:** [abhay122710](https://github.com/abhay122710)
 
