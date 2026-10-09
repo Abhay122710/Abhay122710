@@ -13,9 +13,6 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ![Introduction](./assets/hero.svg)
 
-<p align="center">
-  <img src="./assets/id.png" alt="Portrait of Abhay Chaudhary" width="180" />
-</p>
 
 ![About and Interests](./assets/about-life.svg)
 
@@ -31,9 +28,6 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ![Developer ID Card](./assets/id-dashboard.svg)
 
-<p align="center">
-  <img src="./assets/id.png" alt="Developer portrait" width="150" />
-</p>
 
 ---
 
@@ -51,9 +45,6 @@ I'm passionate about **game development, UI/UX design, and 3D graphics**. I enjo
 
 ![Connect](./assets/connect.svg)
 
-<p align="center">
-  <img src="./assets/right_pointing.png" alt="Pointing character" width="240" />
-</p>
 
 - **GitHub:** [abhay122710](https://github.com/abhay122710)
 
